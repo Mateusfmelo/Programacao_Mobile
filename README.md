@@ -1,1 +1,2 @@
-# Programacao_Mobile
+# Repositório de Programação Mobile - IFPB Guarabira
+
